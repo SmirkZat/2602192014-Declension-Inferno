@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Declension Inferno" src="https://github.com/user-attachments/assets/000b9d0b-88d0-4ecf-930e-ee3adc1da97b">
+  <img width="100%" alt="Declension Inferno" src="https://github.com/SmirkZat/2602192014-Declension-Inferno/blob/main/Content/Declension.gif.gif">
   </br>
 </p>
 
